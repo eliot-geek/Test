@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YIw1gPFUPiy/KJLQWetZ2AYqgHytakYoMXyrSwd5lH/EOOQuP1QPB4Mj6CaAojkAlRWUEGElfAea4pN3wYPTcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leosa\\source\\repos\\ConsoleApplication\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leosa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
