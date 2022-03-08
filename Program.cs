@@ -12,7 +12,7 @@ namespace ConsoleApp1
     class Program
     {
         /// <summary>
-        /// Product Class
+        /// Product
         /// </summary>
         class Product
         {
